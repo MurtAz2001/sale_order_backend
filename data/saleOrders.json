@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "customer_id": 11908,
+        "items": [
+            {
+                "sku_id": 220,
+                "product_name": "Product A",
+                "price": 12,
+                "quantity": 12
+            }
+        ],
+        "invoice_no": "Invoice-1212121",
+        "invoice_date": "7/5/2024",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "customer_id": 12000,
+        "items": [
+            {
+                "sku_id": 221,
+                "product_name": "Product B",
+                "price": 15,
+                "quantity": 10
+            }
+        ],
+        "invoice_no": "Invoice-1212122",
+        "invoice_date": "7/6/2024",
+        "status": "completed"
+    },
+    {
+        "id": 3,
+        "customer_id": 11909,
+        "items": [
+            {
+                "sku_id": 222,
+                "product_name": "Product C",
+                "price": 10,
+                "quantity": 5
+            },
+            {
+                "sku_id": 223,
+                "product_name": "Product D",
+                "price": 20,
+                "quantity": 3
+            }
+        ],
+        "invoice_no": "Invoice-1212123",
+        "invoice_date": "7/7/2024",
+        "status": "active"
+    },
+    {
+        "id": 4,
+        "customer_id": 12001,
+        "items": [
+            {
+                "sku_id": 224,
+                "product_name": "Product E",
+                "price": 8,
+                "quantity": 20
+            }
+        ],
+        "invoice_no": "Invoice-1212124",
+        "invoice_date": "7/8/2024",
+        "status": "completed"
+    },
+    {
+        "id": 5,
+        "customer_id": 11910,
+        "items": [
+            {
+                "sku_id": 225,
+                "product_name": "Product F",
+                "price": 25,
+                "quantity": 2
+            },
+            {
+                "sku_id": 226,
+                "product_name": "Product G",
+                "price": 30,
+                "quantity": 1
+            }
+        ],
+        "invoice_no": "Invoice-1212125",
+        "invoice_date": "7/9/2024",
+        "status": "active"
+    },
+    {
+        "id": 6,
+        "customer_id": 12002,
+        "items": [
+            {
+                "sku_id": 227,
+                "product_name": "Product H",
+                "price": 50,
+                "quantity": 5
+            }
+        ],
+        "invoice_no": "Invoice-1212126",
+        "invoice_date": "7/10/2024",
+        "status": "completed"
+    },
+    {
+        "id": 7,
+        "customer_id": 11911,
+        "items": [
+            {
+                "sku_id": 228,
+                "product_name": "Product I",
+                "price": 35,
+                "quantity": 4
+            },
+            {
+                "sku_id": 229,
+                "product_name": "Product J",
+                "price": 40,
+                "quantity": 3
+            }
+        ],
+        "invoice_no": "Invoice-1212127",
+        "invoice_date": "7/11/2024",
+        "status": "active"
+    },
+    {
+        "id": 8,
+        "customer_id": 12003,
+        "items": [
+            {
+                "sku_id": 230,
+                "product_name": "Product K",
+                "price": 22,
+                "quantity": 10
+            }
+        ],
+        "invoice_no": "Invoice-1212128",
+        "invoice_date": "7/12/2024",
+        "status": "completed"
+    },
+    {
+        "id": 9,
+        "customer_id": 11912,
+        "items": [
+            {
+                "sku_id": 231,
+                "product_name": "Product L",
+                "price": 18,
+                "quantity": 6
+            }
+        ],
+        "invoice_no": "Invoice-1212129",
+        "invoice_date": "7/13/2024",
+        "status": "active"
+    },
+    {
+        "id": 10,
+        "customer_id": 12004,
+        "items": [
+            {
+                "sku_id": 232,
+                "product_name": "Product M",
+                "price": 12,
+                "quantity": 15
+            }
+        ],
+        "invoice_no": "Invoice-1212130",
+        "invoice_date": "7/14/2024",
+        "status": "completed"
+    }
+]
